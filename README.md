@@ -387,7 +387,7 @@ plt.show()
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_25_0.png)
+![png](README_files/README_25_0.png)
     
 
 
@@ -3183,7 +3183,7 @@ show_heatmap(humanities_model, humanities_h, "Humanities")
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_50_1.png)
+![png](README_files/README_50_1.png)
     
 
 
@@ -3192,7 +3192,7 @@ show_heatmap(humanities_model, humanities_h, "Humanities")
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_50_3.png)
+![png](README_files/README_50_3.png)
     
 
 
@@ -3469,7 +3469,7 @@ learner.lr_find(show_plot=True, max_epochs=7)
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_64_1.png)
+![png](README_files/README_64_1.png)
     
 
 
@@ -3730,7 +3730,7 @@ learner_gpt.lr_find(show_plot=True, max_epochs=15)
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_80_1.png)
+![png](README_files/README_80_1.png)
     
 
 
@@ -3931,7 +3931,7 @@ plt.show()
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_101_0.png)
+![png](README_files/README_101_0.png)
     
 
 
@@ -4008,13 +4008,13 @@ plot_combined_sentiment_distribution(humanities_professors, 'Combined Sentiment 
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_107_0.png)
+![png](README_files/README_107_0.png)
     
 
 
 
     
-![png](Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_files/Main_Document_CSC425_RateMyProfessor_Sentiment_Analysis%20%282%29_107_1.png)
+![png](README_files/README_107_1.png)
     
 
 
